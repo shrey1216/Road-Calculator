@@ -24,7 +24,6 @@ public class RoadCalculator {
         mst = new LinkedList<Edge>();
 
 
-        //https://www3.cs.stonybrook.edu/~cse214/hw/hw7-images/hw7.xml
 
 
         boolean enter = true;
