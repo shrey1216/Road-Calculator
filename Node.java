@@ -1,6 +1,4 @@
 //@author Shreyan Wankavala
-//112634232
-//Recitation 01
 
 import java.util.HashSet;
 import java.util.LinkedList;
